@@ -1,4 +1,5 @@
 import config from "./config.js";
+// const config = require("./config");
 const summary_btn = document.querySelector(".get_summary_btn");
 const summary_links_container = document.querySelector(".summary_links");
 const summary_output = document.querySelector(".summary_output");
