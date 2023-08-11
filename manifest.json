@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Darlinn article Summary Maker",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["tabs"],
+  "description": "The 'Darlinn article summary maker' is a simple and user-friendly browser extension designed to streamline information retrieval from web pages. With just a click of a button, users can generate concise summaries of web content, allowing them to quickly grasp key insights without reading lengthy articles. The extension also offers the convenience of saving and managing relevant links for later access. By providing efficient summarization and link organization, the Summarizer enhances productivity and improves the overall browsing experience."
+}
